@@ -14,16 +14,20 @@ Especializado en **React, NestJS, PostgreSQL** | Experiencia en **E-commerce** y
 
 ---
 
-## 🧠 Perfil profesional
+<details>
+<summary>🧠 <strong>Perfil profesional</strong></summary>
+
 Desarrollador full stack con foco en frontend (**React.js**) y backend (**NestJS**), con experiencia sólida en proyectos reales **B2C y B2B** en entornos productivos.  
 He liderado el desarrollo de plataformas web para **Janos Eventos** y sus verticales (**Atelier** y **Complementos**), integrando CMS, CI/CD, seguridad y diseño UX/UI.  
 Apasionado por las buenas prácticas, el trabajo en equipo y el aprendizaje continuo.
+</details>
 
 ---
 
-## 🔧 Tecnologías
+<details>
+<summary>🔧 <strong>Tecnologías</strong></summary>
 
-### **Frontend**
+**Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
@@ -32,19 +36,19 @@ Apasionado por las buenas prácticas, el trabajo en equipo y el aprendizaje cont
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### **Backend**
+**Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=api&logoColor=white)
 
-### **Bases de datos**
+**Bases de datos**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-### **DevOps & Herramientas**
+**DevOps & Herramientas**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -53,9 +57,12 @@ Apasionado por las buenas prácticas, el trabajo en equipo y el aprendizaje cont
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+</details>
+
 ---
 
-## 💼 Experiencia laboral
+<details>
+<summary>💼 <strong>Experiencia laboral</strong></summary>
 
 ### **Full Stack Developer – Janos Eventos**  
 📅 2023 – Actualidad | Freelance / In-house  
@@ -72,21 +79,31 @@ Apasionado por las buenas prácticas, el trabajo en equipo y el aprendizaje cont
 - Enfoque en **rendimiento, SEO técnico y accesibilidad web**.  
 - Mejora de **performance de carga hasta un 40%** en proyectos previos.  
 
+</details>
+
 ---
 
-## 🎓 Formación
+<details>
+<summary>🎓 <strong>Formación</strong></summary>
+
 - **Full Stack Developer** – Nucba (2023)  
 - **JavaScript Total** – Udemy (2023)  
 - **Desarrollo Web** – Coderhouse (2023)  
 - **Inglés Intermedio** – Torcuato English Center *(actualmente)*  
 - **Secundario completo** – Colegio Rosario Vera Peñaloza (2016)  
 
+</details>
+
 ---
 
-## 🏆 Proyectos destacados
+<details>
+<summary>🏆 <strong>Proyectos destacados</strong></summary>
+
 - 🌐 **Janos Eventos:** Plataforma para gestión de eventos y catálogo interactivo  
 - 👗 **Atelier de Janos:** Plataforma de alquiler y reserva de vestidos  
 - 🎁 **Complementos de Janos:** Catálogo digital con sistema de reservas y administración interna  
+
+</details>
 
 ---
 
