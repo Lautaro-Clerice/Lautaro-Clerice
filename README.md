@@ -6,11 +6,10 @@ Especializado en **React, NestJS, PostgreSQL** | Experiencia en **E-commerce** y
 ---
 
 ## 📍 Información de contacto
-[![Email](https://img.shields.io/badge/Email-clericelautaro%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:clericelautaro@gmail.com)
-[![Teléfono](https://img.shields.io/badge/Teléfono-11--6218--3918-blue?style=for-the-badge&logo=phone)]()
-[![Ubicación](https://img.shields.io/badge/Muñiz%2C%20Buenos%20Aires-Argentina-lightgrey?style=for-the-badge&logo=google-maps)]()
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github)](https://github.com/tuusuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-orange?style=for-the-badge&logo=react)](https://tuportfolio.com)
+[![Ubicación](https://img.shields.io/badge/Muñiz%2C%20Buenos%20Aires-Argentina-lightgrey?style=for-the-badge&logo=google-maps)]()  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lautaroclerice/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-orange?style=for-the-badge&logo=react)](https://portafolio-vue-git-master-lautaroclerices-projects.vercel.app/)
+
 
 ---
 
