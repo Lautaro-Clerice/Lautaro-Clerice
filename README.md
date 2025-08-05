@@ -57,7 +57,7 @@ Apasionado por las buenas prácticas, el trabajo en equipo y el aprendizaje cont
 ## 💼 Experiencia laboral
 
 ### **Full Stack Developer – Janos Eventos**  
-📅 2023 – Actualidad | Freelance / In-house  
+📅 2023 – Actualidad 
 - Desarrollo de plataformas web: *Janos Eventos*, *Mi Evento*, *Atelier de Janos*, *Complementos de Janos*.  
 - Implementación full stack con **React, NestJS y PostgreSQL**.  
 - CMS autoadministrable con **Strapi**.  
