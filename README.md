@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Clerice Lautaro Thomas
+# 👋 ¡Hola, Mi nombre es Lautaro Clerice!
 
 💼 **Desarrollador Full Stack JavaScript**  
 Especializado en **React, NestJS, PostgreSQL** | Experiencia en **E-commerce** y **gestión de eventos**  
