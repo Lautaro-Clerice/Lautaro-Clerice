@@ -96,4 +96,4 @@ Apasionado por las buenas prácticas, el trabajo en equipo y el aprendizaje cont
 
 ---
 
-> 💡 *Si querés ver mis proyectos destacados, revisá mis repositorios o escribime para más info.*
+
