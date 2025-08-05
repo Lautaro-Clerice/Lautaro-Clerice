@@ -6,7 +6,7 @@ Especializado en **React, NestJS, PostgreSQL** | Experiencia en **E-commerce** y
 ---
 
 ## 📍 Información de contacto
-[![Ubicación](https://img.shields.io/badge/Muñiz%2C%20Buenos%20Aires-Argentina-lightgrey?style=for-the-badge&logo=google-maps)]()  
+[![Ubicación](https://img.shields.io/badge/Muñiz%2C%20Buenos%20Aires-Argentina-lightgrey?style=for-the-badge&logo=google-maps)](https://github.com/Lautaro-Clerice)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lautaroclerice/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Web-orange?style=for-the-badge&logo=react)](https://portafolio-vue-git-master-lautaroclerices-projects.vercel.app/)
 
