@@ -1,5 +1,10 @@
 # 👋 ¡Hola, Mi nombre es Lautaro Clerice!
 
+![Lautaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lautaro-Clerice&show_icons=true&theme=tokyonight)
+
+[![Lautaro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lautaro-Clerice&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 💼 **Desarrollador Full Stack JavaScript**  
 Especializado en **React, NestJS, PostgreSQL** | Experiencia en **E-commerce** y **gestión de eventos**  
 
