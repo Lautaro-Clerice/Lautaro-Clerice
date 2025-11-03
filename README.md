@@ -1,6 +1,5 @@
 # 👋 ¡Hola, Mi nombre es Lautaro Clerice!
 
-<img width="754" height="168" alt="image" src="https://github.com/user-attachments/assets/0cf5051c-3c7c-4d30-b639-aaedbf0988a0" />
 
 💼 **Desarrollador Full Stack JavaScript**  
 Especializado en **React, NestJS, PostgreSQL** | Experiencia en **E-commerce** y **gestión de eventos**  
